@@ -1,0 +1,14 @@
+{
+    "no_required_item":"Du har ikke en %s",
+    "cant_carry":"Du kan ikke bære flere %s",
+    "uprooting":"Optager %s",
+    "washing":"Vasker %s",
+    "item_broke":"%s gik i stykker",
+    "wash_crops":"Vask af afgrøder",
+    "no_crops_to_wash":"Du har ingen afgrøder, der skal vaskes",
+    "press_wash_crops":"Tryk på %s for at vaske afgrøder",
+    "open_shop":"Åbn Butik",
+    "open_sell":"Åbn Sælg",
+    "sell_crops":"Sælg afgrøder",
+    "farmer_shop":"Landbrugsbutik"
+}
